@@ -6,7 +6,7 @@ Below I have linked my showcase video for anime archive [uploaded to youtube]. I
 
 [Watch anime archive showcase video video](https://youtu.be/P-MWklfDCJs)
 
-## technologies used
+## technologies used across person projects
 
 - react
 - redux toolkit
