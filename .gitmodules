@@ -1,3 +1,6 @@
 [submodule "personal-projects/top-anime-archive"]
 	path = personal-projects/top-anime-archive
 	url = https://github.com/An-Be/top-anime-archive.git
+[submodule "personal-projects/Chattr"]
+	path = personal-projects/Chattr
+	url = https://github.com/Multiverse-Workshop/Chattr.git
