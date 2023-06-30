@@ -7,3 +7,6 @@
 [submodule "personal-projects/Caro-hive/CaroHive-backend"]
 	path = personal-projects/Caro-hive/CaroHive-backend
 	url = https://github.com/An-Be/CaroHive-backend.git
+[submodule "personal-projects/Caro-hive/CaroHive-frontend"]
+	path = personal-projects/Caro-hive/CaroHive-frontend
+	url = https://github.com/An-Be/CaroHive-frontend.git
