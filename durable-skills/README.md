@@ -4,7 +4,7 @@
 
 I joined my team at Amex at a crucial time. Our team is currently migrating our app from Angular to React. This migration is crucial to enhance app performance, ease troubleshooting for devs, reducing outages, making our app more scalable, and optimizing the development process. 
 
-I have worked on crucial parts in this migration:
+I have worked on critical parts in this migration:
 
 - A webworker which essentially allows javascript to be multithreaded instead of single threaded. This enhanced our apps performance by making our logger run on a seperate thread so it would not affect our UI. This was actually my first Jira story I was assigned. It was originally a spike but I managed to complete enough research during the sprint and implement the webworker.
 
