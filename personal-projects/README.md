@@ -21,3 +21,5 @@ Below I have linked my showcase video for anime archive [uploaded to youtube]. I
 - socket.io
 - node.js
 - express
+- docker
+- CI/CD with github actions
