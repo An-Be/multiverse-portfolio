@@ -2,7 +2,7 @@
 
 ## Overview of my learnings on the job
 
-I joined my team at Amex at a crucial time. Our team is currently migrating our app from Angular to React. This migration is crucial to enhance app performance, ease troubleshooting for devs, reducing outages, making our app more scalable, and optimizing the development process. 
+I joined my team at Amex at a crucial time. Our team is currently migrating our app from Angular to React. This migration is needed to enhance app performance, ease troubleshooting for devs, reduce outages, make our app more scalable, and to optimize the development process. 
 
 I have worked on critical parts in this migration:
 
