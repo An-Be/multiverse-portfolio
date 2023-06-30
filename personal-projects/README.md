@@ -6,3 +6,18 @@ Below I have linked my showcase video for anime archive [uploaded to youtube]. I
 
 [Watch anime archive showcase video video](https://youtu.be/P-MWklfDCJs)
 
+## technologies used
+
+- react
+- redux toolkit
+- RTK query
+- strapi
+- sass/css
+- tailwind css/daisy UI
+- stripe
+- mysql
+- postgresql
+- firebase
+- socket.io
+- node.js
+- express
