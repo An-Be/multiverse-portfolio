@@ -10,3 +10,6 @@
 [submodule "personal-projects/Caro-hive/CaroHive-frontend"]
 	path = personal-projects/Caro-hive/CaroHive-frontend
 	url = https://github.com/An-Be/CaroHive-frontend.git
+[submodule "personal-projects/Astrononomy-picture-of-day"]
+	path = personal-projects/Astrononomy-picture-of-day
+	url = https://github.com/An-Be/Astrononomy-picture-of-day.git
