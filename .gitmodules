@@ -4,3 +4,6 @@
 [submodule "personal-projects/Chattr"]
 	path = personal-projects/Chattr
 	url = https://github.com/Multiverse-Workshop/Chattr.git
+[submodule "personal-projects/Caro-hive/CaroHive-backend"]
+	path = personal-projects/Caro-hive/CaroHive-backend
+	url = https://github.com/An-Be/CaroHive-backend.git
