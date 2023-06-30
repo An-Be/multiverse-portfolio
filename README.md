@@ -1,4 +1,4 @@
-# multiverse-portfolio
+# Multiverse Portfolio
 
 This repo is a collection of some of my learning and contributions during my 2022-2023 apprenticeship at American Express sponsored by Multiverse.
 
